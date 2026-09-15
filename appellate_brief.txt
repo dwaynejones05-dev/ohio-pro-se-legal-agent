@@ -1,0 +1,230 @@
+IN THE SUPREME COURT OF OHIO
+
+---
+
+**IN RE:**                                :  **CASE NO.** 2024JCV01116, 2024JCV01117, 2024JCV01118
+                                         :
+D.J., K.J., and Z.J.,                      :  On Appeal from the Fifth Appellate District
+                                         :  (Stark County)
+                                         :  Court of Appeals
+                                         :  Case Nos.: 2026CA00055, 2026CA00056, 2026CA00057
+ :
+
+---
+
+### MEMORANDUM IN SUPPORT OF JURISDICTION OF APPELLANT DWAYNE JONES
+
+---
+
+**Dwayne Jones, Pro Se Appellant**
+120 E 44 Street, Apt 2
+Chicago, IL 60653
+(773) 440-3340
+DwayneJones696@gmail.com
+
+**COUNSEL FOR APPELLANT, DWAYNE JONES**  
+
+---
+
+**Brandon J. Waltenbaugh / Christina G. Eoff, Esqs.**
+Stark County Job and Family Services
+402 2nd St. SE
+Canton, Ohio 44702
+
+**COUNSEL FOR APPELLEE, STARK COUNTY JFS**
+
+---
+
+### TABLE OF CONTENTS
+
+* **EXPLANATION OF WHY THIS CASE IS A CASE OF PUBLIC OR GREAT GENERAL INTEREST AND INVOLVES A SUBSTANTIAL CONSTITUTIONAL QUESTION** ... 1
+* **STATEMENT OF THE CASE AND FACTS** ... 4
+  * A. Procedural History and Unconstitutional ICPC Application ... 4
+  * B. Audit Findings: Structural Failure to Record Proceedings (`CR2 NR`) and Collapse of App.R. 9(C) Reconstruction ... 6
+* **ARGUMENT IN SUPPORT OF PROPOSITIONS OF LAW** ... 8
+  * **PROPOSITION OF LAW NO. I:** A FIT, NON-OFFENDING PARENT POSSESSES A FUNDAMENTAL CONSTITUTIONAL RIGHT TO THE CUSTODY OF THEIR CHILD UNDER THE FOURTEENTH AMENDMENT AND ARTICLE I, SECTION 16 OF THE OHIO CONSTITUTION. THE INTERSTATE COMPACT ON THE PLACEMENT OF CHILDREN (ICPC) DOES NOT APPLY TO, NOR MAY IT BE USED TO RESTRICT OR DELAY, PLACEMENT WITH AN OUT-OF-STATE FIT BIOLOGICAL PARENT. ... 8
+  * **PROPOSITION OF LAW NO. II:** THE AFFIRMATIVE FAILURE OF A JUVENILE COURT TO RECORD MANDATORY PROCEEDINGS PURSUANT TO JUV.R. 37(A), COUPLED WITH THE ABSENCE OF A RECORDED WAIVER AND THE FAILURE TO ADJUDICATE AND APPROVE AN APP.R. 9(C) STATEMENT, CONSTITUTES A STRUCTURAL DUE PROCESS ERROR THAT DEPRIVES A LITIGANT OF MEANINGFUL APPELLATE REVIEW. ... 11
+  * **PROPOSITION OF LAW NO. III:** JUVENILE COURTS MAY NOT SHIFT THE EVIDENTIARY BURDEN OF RECORDATION ONTO A PARENT UNDER JUV.R. 40(D)(3)(b)(iii) WHEN THE COURT FAILS TO MAINTAIN AN AUDIO OR STENOGRAPHIC RECORD IN VIOLATION OF JUV.R. 37(A). ... 14
+* **CONCLUSION** ... 15
+* **CERTIFICATE OF SERVICE** ... 16
+
+---
+
+### EXPLANATION OF WHY THIS CASE IS A CASE OF PUBLIC OR GREAT GENERAL INTEREST AND INVOLVES A SUBSTANTIAL CONSTITUTIONAL QUESTION
+
+This cause presents two fundamental constitutional questions that strike at the core of due process, parental rights, and judicial integrity in Ohio’s juvenile justice and child protection systems:
+
+1. Whether a trial court may utilize the Interstate Compact on the Placement of Children (ICPC), R.C. 5103.20, to deprive a fit, non-offending, out-of-state biological parent of immediate custody of their child in violation of the Fourteenth Amendment to the United States Constitution and Article I, Section 16 of the Ohio Constitution; and
+2. Whether a juvenile court’s systemic failure to record substantive hearings under mandatory Juvenile Rule 37(A)—evidenced by the affirmative docket code `CR2 NR` (Courtroom 2 - No Record)—combined with a total collapse of Appellate Rule 9(C) reconstruction, constitutes structural error requiring automatic reversal because it completely forecloses meaningful appellate review.
+
+#### The Fundamental Liberty Interest of Non-Offending Parents
+
+The United States Supreme Court has repeatedly affirmed that a parent’s desire for and right to the companionship, care, custody, and management of his or her children is an interest far more precious than any property right. *Troxel v. Granville*, 530 U.S. 57, 65, 120 S.Ct. 2054, 147 L.Ed.2d 49 (2000); *Santosky v. Kramer*, 455 U.S. 745, 758–759, 102 S.Ct. 1388, 71 L.Ed.2d 599 (1982). The natural parent-child relationship is grounded in fundamental substantive due process. 
+
+This Court has reaffirmed these core principles, establishing that a natural parent who is fit and non-offending retains a paramount right to custody over any non-parent. *See In re B.E.*, 102 Ohio St.3d 388, 2004-Ohio-3361, 811 N.E.2d 55. Despite this binding precedent, trial courts across Ohio continue to misapply the ICPC as an administrative weapon to withhold custody from fit out-of-state biological parents, subjecting them to protracted home evaluations, statutory delays, and unconstitutional deprivations of liberty without any threshold finding of unfitness. 
+
+When a non-offending parent steps forward to claim custody of their child who has entered the temporary custody of a state agency, the ICPC has no lawful application. The Compact governs interstate placement in foster care or preliminary to an adoption; it was never intended, nor can it constitutionally be construed, to regulate or impede the placement of a child with their natural, fit biological parent. The continued misapplication of the ICPC by juvenile courts creates an impermissible barrier for out-of-state parents, forcing them into procedural limbo while their parental rights are eroded. This Court must accept jurisdiction to clarify once and for all that the ICPC does not apply to non-offending out-of-state parents.
+
+#### Systemic Breakdown of the Record and Structural Due Process
+
+Compounding this substantive due process violation is an extraordinary procedural defect: the trial court’s explicit, routine practice of conducting substantive juvenile proceedings without creating any audio, video, or stenographic record. 
+
+Juvenile Rule 37(A) mandates that the juvenile court *shall* make a record of all proceedings in all adjudicatory and dispositional hearings. This requirement is not directory; it is mandatory. It safeguards constitutional due process by ensuring that decisions severing or altering fundamental parental rights are transparent, documented, and subject to appellate scrutiny.
+
+Here, the trial court docket explicitly contains the entry code `CR2 NR`—designating "Courtroom 2 - No Record / Not Recorded"—during critical detention, adjudicatory, and dispositional hearings. This is not a case of an accidental technical glitch or a corrupted audio file. It represents an intentional, institutionalized operational failure to record mandatory statutory hearings.
+
+Worse still, when Appellant sought to remedy this fatal defect on appeal, the remedial mechanisms of Appellate Rule 9 completely collapsed:
+* The Official Court Reporter issued a formal Certification of Unavailable Transcript, confirming that no audio files, stenographic notes, or log sheets exist for docket events coded `CR2 NR`.
+* Counsel drafted a Proposed App.R. 9(C) Statement of Evidence, to which the State filed objections.
+* The trial court completely failed to hold a hearing, resolve the objections, or issue a journal entry settling and approving the App.R. 9(C) statement.
+
+The result is a complete black hole in the judicial record. Statutory advisements under Juv.R. 29 and 34, colloquies regarding admissions, evidentiary foundations, and best-interest determinations occurred during unrecorded sessions insulated from review. Under established constitutional jurisprudence, the complete absence of a transcript caused by the court's failure to comply with mandatory recordation rules—where App.R. 9 reconstruction is rendered impossible due to judicial inaction—constitutes structural error. It deprives the aggrieved parent of their constitutional right to a meaningful appeal under the Fourteenth Amendment and Article I, Section 16 of the Ohio Constitution.
+
+If the decision below is permitted to stand, trial courts will be handed a roadmap to insulate unconstitutional placements and parental deprivations from appellate scrutiny simply by failing to record proceedings and ignoring App.R. 9 settlement duties. This Court must assert its jurisdictional authority to protect fundamental parental rights, enforce strict compliance with Juv.R. 37(A), and declare that the state cannot strip a fit parent of custody in the dark.
+
+---
+
+### STATEMENT OF THE CASE AND FACT'S 
+
+#### A. Procedural History and Unconstitutional ICPC Application
+
+Appellant is the biological father of the minor children, D.J., K.J., and Z.J. Appellant resides outside the State of Ohio. At all times relevant to these proceedings, Appellant was, and remains, a fit, non-offending parent. Appellant has never been adjudicated an unfit parent, nor has any agency filed a complaint alleging abuse, neglect, or dependency against him.
+
+These proceedings commenced when Appellee, Stark County Job and Family Services, filed a complaint in the Juvenile Court alleging that the minor children were dependent due to circumstances involving the minor children’s mother. At the initial shelter care and detention hearings, Appellant appeared, established paternity, and immediately demanded physical custody of his child as a fit, non-offending parent.
+
+Rather than placing the minor children immediately into the custody of Appellant pursuant to *In re B.E.*, 102 Ohio St.3d 388, 2004-Ohio-3361, 811 N.E.2d 55, the juvenile court refused to release the minor children. Over Appellant's explicit constitutional objections, the court held that Appellant could not obtain custody of his child until an Interstate Compact on the Placement of Children (ICPC) home study was initiated, processed, and approved by the foreign state’s administrative authorities.
+
+Because of this erroneous application of the ICPC to a fit biological parent, the minor children was placed in temporary foster care in Ohio. For months, Appellant was subjected to out-of-state administrative delays, home inspections, and bureaucratic obstacles, during which time his fundamental liberty interest in raising his child was entirely suspended.
+
+#### B. Audit Findings: Structural Failure to Record Proceedings (`CR2 NR`) and Collapse of App.R. 9(C) Reconstruction
+
+Appellant appealed the juvenile court's order denying immediate custody and placing the minor children in agency custody. However, an independent legal and docket audit of the trial court record revealed profound, structural defects in the court's compliance with basic procedural mandates:
+
+1. **Systemic Unrecorded Proceedings (`CR2 NR`):** The trial court docket contains affirmative entries bearing code `CR2 NR` (Courtroom 2 - No Record / Not Recorded) during critical, substantive juvenile proceedings, including the Detention, Adjudicatory, and Dispositional Hearings. 
+2. **Absence of Recordable Waiver:** The record contains no written or oral waiver of the Juv.R. 37(A) mandatory recording requirement executed knowingly, intelligently, and voluntarily by Appellant or his counsel. The docket is entirely silent as to any waiver, yet the court proceeded under `CR2 NR` status.
+3. **Official Certification of Unavailable Transcript:** Pursuant to App.R. 9(B), appellate counsel requested a verbatim transcript of all proceedings. On February 17, 2026, the Official Court Reporter filed a formal *Certification of Unavailable Transcript*, certifying that no audio files, stenographic notes, or log sheets exist for any of the docket events coded `CR2 NR`.
+4. **Complete Collapse of App.R. 9(C) Reconstruction:** Appellate counsel attempted to reconstruct the missing record by drafting and filing a Proposed App.R. 9(C) Statement of Evidence. The State filed objections to Appellant's proposed statement. Thereafter:
+   * The trial court issued no order or notification regarding the unrecorded hearings upon receipt of the docket inspection notice.
+   * The trial court failed to conduct a settlement hearing, failed to rule upon or resolve the State’s pending objections, and **never issued a Journal Entry settling, approving, or certifying the App.R. 9(C) statement to the Court of Appeals.**
+5. **Prejudice to Objection Rights under Juv.R. 40:** Critical hearings conducted by the Magistrate were coded `CR2 NR` and reduced to Magistrate Decisions without an underlying audio recording. When Appellant sought to object under Juv.R. 40(D)(3)(b)(iii), the court’s failure to record the proceedings impermissibly shifted the evidentiary burden of recordation onto Appellant, requiring an affidavit of evidence that the trial court subsequently ignored.
+
+On appeal to the Fifth District Court of Appeals, Appellant assigned error to the unconstitutional application of the ICPC, the deprivation of custody to a fit non-offending parent under *In re B.E.*, and the structural due process failure resulting from unrecorded proceedings under `CR2 NR`. 
+
+On February 17, 2026, the Fifth Appellate District Court of Appeals affirmed the juvenile court's judgment. The appellate court held that in the absence of an approved App.R. 9(C) transcript or statement of evidence, it was forced to presume the regularity of the juvenile court's proceedings. It further upheld the trial court's application of the ICPC to Appellant.
+
+Appellant now timely appeals to this Court.
+
+---
+
+### ARGUMENT IN SUPPORT OF PROPOSITIONS OF LAW
+
+#### PROPOSITION OF LAW NO. I
+
+> **A FIT, NON-OFFENDING PARENT POSSESSES A FUNDAMENTAL CONSTITUTIONAL RIGHT TO THE CUSTODY OF THEIR CHILD UNDER THE FOURTEENTH AMENDMENT AND ARTICLE I, SECTION 16 OF THE OHIO CONSTITUTION. THE INTERSTATE COMPACT ON THE PLACEMENT OF CHILDREN (ICPC) DOES NOT APPLY TO, NOR MAY IT BE USED TO RESTRICT OR DELAY, PLACEMENT WITH AN OUT-OF-STATE FIT BIOLOGICAL PARENT.**
+
+The liberty interest of a parent in the care, custody, and management of their child is perhaps the oldest of the fundamental liberty interests recognized by the United States Supreme Court. *Troxel v. Granville*, 530 U.S. 57, 65, 120 S.Ct. 2054, 147 L.Ed.2d 49 (2000); *Meyer v. Nebraska*, 262 U.S. 390, 399, 43 S.Ct. 625, 67 L.Ed. 1042 (1923). This fundamental right is protected by the Due Process Clause of the Fourteenth Amendment to the United States Constitution and Article I, Section 16 of the Ohio Constitution.
+
+In *In re B.E.*, 102 Ohio St.3d 388, 2004-Ohio-3361, 811 N.E.2d 55, this Court established an unassailable rule: a custody dispute between a parent and a non-parent cannot result in an award of custody to the non-parent unless the court first finds by clear and convincing evidence that the parent is unfit, or that placing the minor children with the parent would result in serious detriment. When a child is removed from one parent due to dependency or neglect, the state has no constitutional authority to withhold custody from the other biological parent if that parent is fit and non-offending.
+
+Here, the trial court circumvented *In re B.E.* by hiding behind the administrative machinery of the Interstate Compact on the Placement of Children (ICPC), codified at R.C. 5103.20. The trial court ruled that because Appellant lives outside the State of Ohio, he could not take immediate custody of his own child without prior approval under the ICPC. This ruling is flatly unconstitutional and legally erroneous.
+
+The explicit statutory text of the ICPC governs placements in "foster care or as a preliminary to a possible adoption." R.C. 5103.20, Art. III. A biological parent is neither a foster home nor an adoptive placement. A fit, non-offending parent does not receive "placement" of their own child from the state; rather, the parent exercises an inherent, pre-existing constitutional right to raise their child. 
+
+As numerous federal and state appellate courts across the nation have held, applying the ICPC to out-of-state natural parents violates both the plain language of the Compact and the Due Process Clause of the Fourteenth Amendment. *See, e.g., McComb v. Wambaugh*, 934 F.2d 474, 482 (3d Cir.1991) ("The Compact does not apply to parental placements."); *In re E.N.O.*, 129 Nev. 154, 161, 296 P.3d 474 (2013) (holding that applying the ICPC to natural parents unconstitutionally infringes upon fit parents' fundamental right to parent their children); *Arkansas Dept. of Human Servs. v. Huff*, 347 Ark. 553, 562, 65 S.W.3d 880 (2002).
+
+When a juvenile court conditions a fit out-of-state parent's custody upon an ICPC home evaluation, it subjects that parent to burdensome, month-long administrative delays while the minor children remains in state-sponsored foster care. This transforms a constitutional right into a mere administrative privilege granted at the discretion of out-of-state bureaucrats. 
+
+Appellant is a fit, non-offending parent. The state never alleged, let alone proved by clear and convincing evidence, that Appellant was unfit. Therefore, the juvenile court had a non-discretionary constitutional duty under *In re B.E.* and the Fourteenth Amendment to transfer custody of the minor children to Appellant immediately. Withholding custody under the guise of the ICPC violated Appellant's fundamental due process rights.
+
+---
+
+#### PROPOSITION OF LAW NO. II
+
+> **THE AFFIRMATIVE FAILURE OF A JUVENILE COURT TO RECORD MANDATORY PROCEEDINGS PURSUANT TO JUV.R. 37(A), COUPLED WITH THE ABSENCE OF A RECORDED WAIVER AND THE FAILURE TO ADJUDICATE AND APPROVE AN APP.R. 9(C) STATEMENT, CONSTITUTES A STRUCTURAL DUE PROCESS ERROR THAT DEPRIVES A LITIGANT OF MEANINGFUL APPELLATE REVIEW.**
+
+Ohio Rule of Juvenile Procedure 37(A) imposes an unequivocal mandate upon juvenile courts:
+
+> "The juvenile court **shall** make a record of all proceedings in all risk-of-harm, delinquency, unruly, and dependent, neglected, or abused child proceedings, and in all adjudicatory and dispositional hearings." (Emphasis added).
+
+The word "shall" denotes a mandatory obligation. *State ex rel. Law Office of the Montgomery Cty. Public Defender v. Rosencrans*, 111 Ohio St.3d 338, 2006-Ohio-5793, 856 N.E.2d 250, ¶ 13. The purpose of Juv.R. 37(A) is to safeguard procedural due process by preserving a complete legal record for judicial review, particularly in cases where fundamental parental rights are determined.
+
+In this case, the record contains a catastrophic procedural defect: the trial court routinely conducted critical, substantive hearings under docket code `CR2 NR` (Courtroom 2 - No Record / Not Recorded). This is an explicit, administrative practice of refusing to record mandatory statutory hearings.
+
+##### A. Absence of a Valid Waiver
+A parent’s right to a record of proceedings that affect their fundamental liberty interest cannot be waived by silence. In juvenile and constitutional matters, a waiver of procedural rights must be executed knowingly, intelligently, and voluntarily, and it must affirmatively appear on the record. *See In re C.S.*, 115 Ohio St.3d 267, 2007-Ohio-4919, 874 N.E.2d 1177, ¶ 105; *State v. Arrington*, 42 Ohio St.2d 114, 326 N.E.2d 667 (1975). Here, the audit reveals zero written or audio-recorded waivers executed by Appellant or his counsel. Proceeding under `CR2 NR` without an express, journalized waiver is per se error.
+
+##### B. Breakdown of App.R. 9(C) Reconstruction and Judicial Inaction
+The court of appeals erred by applying the standard presumption of regularity to the juvenile court's proceedings. While App.R. 9(C) provides a mechanism to reconstruct an unrecorded record, that mechanism is effective only when the trial court fulfills its mandatory judicial duty under the rule.
+
+App.R. 9(C)(1) specifies that if no record was made, the appellant may prepare a statement of the evidence. The statement, along with objections or proposed amendments, *must be submitted to the trial court for settlement and approval*, and as settled and approved, shall be included by the clerk of the trial court in the record on appeal.
+
+Appellant strictly followed App.R. 9(C). Appellant prepared and filed a Proposed App.R. 9(C) Statement. The State filed objections. At that exact juncture, the trial court abandoned its judicial duty:
+* The trial court failed to issue an order notifying appellate counsel of unrecorded hearings upon receipt of the docket inspection notice.
+* The trial court held no hearing to resolve the conflicts between Appellant's statement and the State's objections.
+* The trial court **never issued a journal entry settling, approving, or certifying the App.R. 9(C) statement.**
+
+As a result of the trial court's inaction, no settled App.R. 9(C) statement could be transmitted to the court of appeals. The court of appeals then used this very lack of an approved statement to penalize Appellant, holding that without a transcript or approved App.R. 9(C) statement, it was forced to "presume the regularity of the proceedings below."
+
+##### C. Structural Due Process Error
+This reasoning creates an unconstitutional catch-22. The trial court fails to record the hearing under `CR2 NR` in violation of Juv.R. 37(A). The court reporter certifies that no record exists. Appellant submits an App.R. 9(C) statement. The trial court refuses or fails to settle and approve the statement. The appellate court then presumes the trial court acted correctly because there is no approved record.
+
+This total failure of the recording and reconstruction process constitutes a structural due process error under the Fourteenth Amendment to the United States Constitution and Article I, Section 16 of the Ohio Constitution. Structural errors are constitutional violations that affect the framework within which the trial proceeds, defying harmless-error analysis because they render the judicial process fundamentally unfair. *Arizona v. Fulminante*, 499 U.S. 279, 309–310, 111 S.Ct. 1246, 113 L.Ed.2d 302 (1991); *State v. Perry*, 101 Ohio St.3d 118, 2004-Ohio-297, 802 N.E.2d 643, ¶ 17.
+
+When a court deprives a parent of a record mandated by Juv.R. 37(A) and then fails to fulfill its duty under App.R. 9(C) to settle the record, the parent is stripped of the fundamental right to meaningful appellate review. *See Griffin v. Illinois*, 351 U.S. 12, 18, 76 S.Ct. 585, 100 L.Ed. 891 (1956) (holding that adequate appellate review requires an adequate record of proceedings). Automatic reversal is the only remedy to cure this structural failure.
+
+---
+
+#### PROPOSITION OF LAW NO. III
+
+> **JUVENILE COURTS MAY NOT SHIFT THE EVIDENTIARY BURDEN OF RECORDATION ONTO A PARENT UNDER JUV.R. 40(D)(3)(b)(iii) WHEN THE COURT FAILS TO MAINTAIN AN AUDIO OR STENOGRAPHIC RECORD IN VIOLATION OF JUV.R. 37(A).**
+
+In juvenile court practice, magistrates frequently conduct preliminary, adjudicatory, and dispositional hearings. Under Juvenile Rule 40(D)(3)(b)(iii), any objection to a magistrate's finding of fact *must* be supported by a transcript of all the evidence submitted to the magistrate, or an affidavit of that evidence if a transcript is unavailable.
+
+However, Juv.R. 40 must be read in harmony with Juv.R. 37(A). Juv.R. 37(A) places the non-delegable duty upon the *court* to make a record of proceedings. 
+
+When a magistrate conducts a hearing bearing docket code `CR2 NR`, the court affirmatively creates a condition where no transcript can ever be produced. When the parent subsequently files objections, the court forces the parent to rely on an affidavit of evidence under Juv.R. 40(D)(3)(b)(iii). This procedure impermissibly shifts the financial and procedural burden of recordation onto the parent.
+
+Worse still, because an affidavit of evidence is drawn from the memory of counsel or parties, trial courts routinely reject such affidavits as incomplete or self-serving, or fail to reconcile them with magistrate recollections. By failing to record magistrate hearings under Juv.R. 37(A), the court creates a procedural trap: it denies the parent an official transcript, forces the parent into an evidentiary affidavit process, and then uses the lack of an official transcript to overrule the parent's objections and affirm magistrate decisions stripping them of custody.
+
+Due process under Article I, Section 16 of the Ohio Constitution prohibits the state from placing procedural traps in the path of parents seeking to defend their fundamental liberty interests. The trial court's systematic failure to record magistrate proceedings under code `CR2 NR` invalidates magistrate decisions arising from those unrecorded proceedings.
+
+---
+
+### CONCLUSION
+
+This case presents critical constitutional issues of statewide importance. It asks whether the State of Ohio can use administrative compacts like the ICPC to strip fit, out-of-state biological parents of custody, and whether juvenile courts can insulate such decisions from appellate scrutiny through the systemic failure to record proceedings (`CR2 NR`) and judicial inaction under App.R. 9(C).
+
+To protect fundamental parental rights, restore compliance with Juvenile Rule 37(A), and guarantee due process of law across Ohio, Appellant respectfully requests that this Court accept jurisdiction over this appeal and order full briefing on the merits.
+
+Respectfully submitted,
+
+```
+___
+Dwayne Jones, Pro Se Appellant
+Counsel of Record for Appellant
+Self-Represented Appellant
+120 E 44 Street, Apt 2, Chicago, IL 60653
+Canton, Ohio 44702
+(773) 440-3340
+DwayneJones696@gmail.com
+```
+
+---
+
+### CERTIFICATE OF SERVICE
+
+I hereby certify that a true and accurate copy of the foregoing *Memorandum in Support of Jurisdiction of Appellant* was served by electronic mail and/or regular U.S. Mail, postage prepaid, this  day of ___, 20___, upon the following:
+
+Attorneys for Appellee, Stark County JFS  
+402 2nd St. SE  
+Canton, Ohio 44702  
+ *Counsel for Appellee, Stark County JFS*
+
+**Atty DeRamus, Esq.**
+Guardian ad Litem for the Minor Children  
+
+```
+___
+Dwayne Jones, Pro Se Appellant
+Counsel of Record for Appellant
+```

@@ -1,2 +1,4 @@
 crewai
 langchain-community
+google-genai
+xai-sdk
